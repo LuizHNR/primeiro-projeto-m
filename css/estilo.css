@@ -71,3 +71,8 @@ ul .link {
 #conteudo{
     line-height: 1.5em;
 }
+
+#borda{
+    border: 1px solid gray;
+    padding: 10px;
+}
