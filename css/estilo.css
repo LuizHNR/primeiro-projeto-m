@@ -33,6 +33,11 @@ h1 {
     font-family: serif;
 }
 
+.menu{
+    font-weight: bold;
+}
+
+
 ul .link {
     color: #e8240e;
     /* border: 2px solid #e8240e; */
@@ -48,6 +53,7 @@ ul .link {
 }
 
 #menu ul{
+    font-weight: bold;
     text-align: center;
     letter-spacing: 2px;
 }
