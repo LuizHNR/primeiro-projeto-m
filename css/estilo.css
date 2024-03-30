@@ -15,6 +15,10 @@
     - Pseudo-elemento
 */
 
+#cabecalho{
+    background-color: #0000ff;
+}
+
 /* Tag */
 h1 {
     color: #318021;
@@ -45,6 +49,7 @@ ul .link {
 }
 
 /* ID */
+
 #container {
     width: 80%;
     height: 100%;
