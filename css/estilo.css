@@ -29,6 +29,10 @@ h1 {
     color: #318021;
 }
 
+.titulo{
+    font-family: serif;
+}
+
 ul .link {
     color: #e8240e;
     /* border: 2px solid #e8240e; */
