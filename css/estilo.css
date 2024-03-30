@@ -58,6 +58,7 @@ ul .link {
     height: 100%;
     border: 2px solid #000;
     margin: 20px auto;
+    padding: 10px;
 }
 
 /* ID */
@@ -84,4 +85,10 @@ ul .link {
 #button{
     background-color: #0000ff;
     color:#ffffff
+}
+
+.rodape{
+    border-width: 2px 1px 1px 1px;
+    border-style: solid;
+    border-color: #ff0000;
 }
