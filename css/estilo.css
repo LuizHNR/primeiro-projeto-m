@@ -52,18 +52,22 @@ ul .link {
 
 }
 
-#menu ul{
-    font-weight: bold;
-    text-align: center;
-    letter-spacing: 2px;
-}
-
-/* ID */
-
 .container {
 
     width: 80%;
     height: 100%;
     border: 2px solid #000;
     margin: 20px auto;
+}
+
+/* ID */
+#menu ul{
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+
+#conteudo{
+    line-height: 1.5em;
 }
